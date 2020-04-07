@@ -1,9 +1,9 @@
 import requests
 import json
 
-query = 'kill'
-page_size = '10'
-apiKey = 'api_key'
+query = 'query'
+page_size = 'count'
+apiKey = 'apiKey'
 from_date = '2020-01-01'
 to_date = '2020-01-31'
 
